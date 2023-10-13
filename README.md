@@ -1,5 +1,5 @@
 The "Financial Fraud Detection and Data Optimization" project is a comprehensive endeavor designed to address the critical challenges of identifying and preventing fraudulent activities within financial transactions. This project combines data optimization and advanced machine learning techniques to proactively detect irregular patterns and anomalies indicative of fraudulent payouts and transactions.
-# Finance_Fraud_Detection
+
 # Financial Fraud Detection and Data Optimization
 
 ![Project Preview]
