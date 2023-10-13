@@ -2,7 +2,7 @@ The "Financial Fraud Detection and Data Optimization" project is a comprehensive
 # Finance_Fraud_Detection
 # Financial Fraud Detection and Data Optimization
 
-![Project Preview](project_preview.png)
+![Project Preview]
 
 **Project Duration:** March 2022 to May 2022
 
